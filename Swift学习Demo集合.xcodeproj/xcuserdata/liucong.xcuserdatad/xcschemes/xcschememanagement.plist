@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>1.0KCV函数调用的基本实现.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Swift学习Demo集合.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,21 @@
 			<true/>
 		</dict>
 		<key>203E9EA71E8AA1F700613F78</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>203E9EBD1E8AA21E00613F78</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>203E9ED01E8AA21E00613F78</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>203E9EDB1E8AA21E00613F78</key>
 		<dict>
 			<key>primary</key>
 			<true/>

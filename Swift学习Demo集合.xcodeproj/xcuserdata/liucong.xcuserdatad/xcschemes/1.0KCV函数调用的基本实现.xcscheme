@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "203E9E881E8AA1F600613F78"
-               BuildableName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.app"
-               BlueprintName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;"
+               BlueprintIdentifier = "203E9EBD1E8AA21E00613F78"
+               BuildableName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;.app"
+               BlueprintName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;"
                ReferencedContainer = "container:Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "203E9E9C1E8AA1F700613F78"
-               BuildableName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;Tests.xctest"
-               BlueprintName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;Tests"
+               BlueprintIdentifier = "203E9ED01E8AA21E00613F78"
+               BuildableName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;Tests.xctest"
+               BlueprintName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;Tests"
                ReferencedContainer = "container:Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,9 +42,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "203E9EA71E8AA1F700613F78"
-               BuildableName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;UITests.xctest"
-               BlueprintName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;UITests"
+               BlueprintIdentifier = "203E9EDB1E8AA21E00613F78"
+               BuildableName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;UITests.xctest"
+               BlueprintName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;UITests"
                ReferencedContainer = "container:Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -52,9 +52,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "203E9E881E8AA1F600613F78"
-            BuildableName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.app"
-            BlueprintName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;"
+            BlueprintIdentifier = "203E9EBD1E8AA21E00613F78"
+            BuildableName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;.app"
+            BlueprintName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;"
             ReferencedContainer = "container:Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -75,9 +75,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "203E9E881E8AA1F600613F78"
-            BuildableName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.app"
-            BlueprintName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;"
+            BlueprintIdentifier = "203E9EBD1E8AA21E00613F78"
+            BuildableName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;.app"
+            BlueprintName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;"
             ReferencedContainer = "container:Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -94,9 +94,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "203E9E881E8AA1F600613F78"
-            BuildableName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.app"
-            BlueprintName = "Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;"
+            BlueprintIdentifier = "203E9EBD1E8AA21E00613F78"
+            BuildableName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;.app"
+            BlueprintName = "1.0KCV&#x51fd;&#x6570;&#x8c03;&#x7528;&#x7684;&#x57fa;&#x672c;&#x5b9e;&#x73b0;"
             ReferencedContainer = "container:Swift&#x5b66;&#x4e60;Demo&#x96c6;&#x5408;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

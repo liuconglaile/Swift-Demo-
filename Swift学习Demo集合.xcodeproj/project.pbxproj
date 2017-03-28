@@ -14,6 +14,14 @@
 		203E9E971E8AA1F600613F78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 203E9E951E8AA1F600613F78 /* LaunchScreen.storyboard */; };
 		203E9EA21E8AA1F700613F78 /* Swift__Demo__Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E9EA11E8AA1F700613F78 /* Swift__Demo__Tests.swift */; };
 		203E9EAD1E8AA1F700613F78 /* Swift__Demo__UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E9EAC1E8AA1F700613F78 /* Swift__Demo__UITests.swift */; };
+		203E9EC11E8AA21E00613F78 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E9EC01E8AA21E00613F78 /* AppDelegate.swift */; };
+		203E9EC31E8AA21E00613F78 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E9EC21E8AA21E00613F78 /* ViewController.swift */; };
+		203E9EC61E8AA21E00613F78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 203E9EC41E8AA21E00613F78 /* Main.storyboard */; };
+		203E9EC81E8AA21E00613F78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 203E9EC71E8AA21E00613F78 /* Assets.xcassets */; };
+		203E9ECB1E8AA21E00613F78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 203E9EC91E8AA21E00613F78 /* LaunchScreen.storyboard */; };
+		203E9ED61E8AA21E00613F78 /* __0KCV_________Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E9ED51E8AA21E00613F78 /* __0KCV_________Tests.swift */; };
+		203E9EE11E8AA21E00613F78 /* __0KCV_________UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E9EE01E8AA21E00613F78 /* __0KCV_________UITests.swift */; };
+		203E9EED1E8AA24100613F78 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E9EEC1E8AA24100613F78 /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +39,20 @@
 			remoteGlobalIDString = 203E9E881E8AA1F600613F78;
 			remoteInfo = "Swift学习Demo集合";
 		};
+		203E9ED21E8AA21E00613F78 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 203E9E811E8AA1F600613F78 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 203E9EBD1E8AA21E00613F78;
+			remoteInfo = "1.0KCV函数调用的基本实现";
+		};
+		203E9EDD1E8AA21E00613F78 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 203E9E811E8AA1F600613F78 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 203E9EBD1E8AA21E00613F78;
+			remoteInfo = "1.0KCV函数调用的基本实现";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +69,20 @@
 		203E9EA81E8AA1F700613F78 /* Swift学习Demo集合UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift学习Demo集合UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		203E9EAC1E8AA1F700613F78 /* Swift__Demo__UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift__Demo__UITests.swift; sourceTree = "<group>"; };
 		203E9EAE1E8AA1F700613F78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		203E9EBE1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "1.0KCV函数调用的基本实现.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		203E9EC01E8AA21E00613F78 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		203E9EC21E8AA21E00613F78 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		203E9EC51E8AA21E00613F78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		203E9EC71E8AA21E00613F78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		203E9ECA1E8AA21E00613F78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		203E9ECC1E8AA21E00613F78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		203E9ED11E8AA21E00613F78 /* 1.0KCV函数调用的基本实现Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "1.0KCV函数调用的基本实现Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		203E9ED51E8AA21E00613F78 /* __0KCV_________Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "__0KCV_________Tests.swift"; sourceTree = "<group>"; };
+		203E9ED71E8AA21E00613F78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		203E9EDC1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "1.0KCV函数调用的基本实现UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		203E9EE01E8AA21E00613F78 /* __0KCV_________UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "__0KCV_________UITests.swift"; sourceTree = "<group>"; };
+		203E9EE21E8AA21E00613F78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		203E9EEC1E8AA24100613F78 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +107,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		203E9EBB1E8AA21E00613F78 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		203E9ECE1E8AA21E00613F78 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		203E9ED91E8AA21E00613F78 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -80,6 +137,9 @@
 				203E9E8B1E8AA1F600613F78 /* Swift学习Demo集合 */,
 				203E9EA01E8AA1F700613F78 /* Swift学习Demo集合Tests */,
 				203E9EAB1E8AA1F700613F78 /* Swift学习Demo集合UITests */,
+				203E9EBF1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现 */,
+				203E9ED41E8AA21E00613F78 /* 1.0KCV函数调用的基本实现Tests */,
+				203E9EDF1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现UITests */,
 				203E9E8A1E8AA1F600613F78 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +150,9 @@
 				203E9E891E8AA1F600613F78 /* Swift学习Demo集合.app */,
 				203E9E9D1E8AA1F700613F78 /* Swift学习Demo集合Tests.xctest */,
 				203E9EA81E8AA1F700613F78 /* Swift学习Demo集合UITests.xctest */,
+				203E9EBE1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现.app */,
+				203E9ED11E8AA21E00613F78 /* 1.0KCV函数调用的基本实现Tests.xctest */,
+				203E9EDC1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,6 +186,38 @@
 				203E9EAE1E8AA1F700613F78 /* Info.plist */,
 			);
 			path = "Swift学习Demo集合UITests";
+			sourceTree = "<group>";
+		};
+		203E9EBF1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现 */ = {
+			isa = PBXGroup;
+			children = (
+				203E9EC01E8AA21E00613F78 /* AppDelegate.swift */,
+				203E9EC21E8AA21E00613F78 /* ViewController.swift */,
+				203E9EEC1E8AA24100613F78 /* Person.swift */,
+				203E9EC41E8AA21E00613F78 /* Main.storyboard */,
+				203E9EC71E8AA21E00613F78 /* Assets.xcassets */,
+				203E9EC91E8AA21E00613F78 /* LaunchScreen.storyboard */,
+				203E9ECC1E8AA21E00613F78 /* Info.plist */,
+			);
+			path = "1.0KCV函数调用的基本实现";
+			sourceTree = "<group>";
+		};
+		203E9ED41E8AA21E00613F78 /* 1.0KCV函数调用的基本实现Tests */ = {
+			isa = PBXGroup;
+			children = (
+				203E9ED51E8AA21E00613F78 /* __0KCV_________Tests.swift */,
+				203E9ED71E8AA21E00613F78 /* Info.plist */,
+			);
+			path = "1.0KCV函数调用的基本实现Tests";
+			sourceTree = "<group>";
+		};
+		203E9EDF1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现UITests */ = {
+			isa = PBXGroup;
+			children = (
+				203E9EE01E8AA21E00613F78 /* __0KCV_________UITests.swift */,
+				203E9EE21E8AA21E00613F78 /* Info.plist */,
+			);
+			path = "1.0KCV函数调用的基本实现UITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -181,6 +276,59 @@
 			productReference = 203E9EA81E8AA1F700613F78 /* Swift学习Demo集合UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		203E9EBD1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 203E9EE31E8AA21E00613F78 /* Build configuration list for PBXNativeTarget "1.0KCV函数调用的基本实现" */;
+			buildPhases = (
+				203E9EBA1E8AA21E00613F78 /* Sources */,
+				203E9EBB1E8AA21E00613F78 /* Frameworks */,
+				203E9EBC1E8AA21E00613F78 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "1.0KCV函数调用的基本实现";
+			productName = "1.0KCV函数调用的基本实现";
+			productReference = 203E9EBE1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现.app */;
+			productType = "com.apple.product-type.application";
+		};
+		203E9ED01E8AA21E00613F78 /* 1.0KCV函数调用的基本实现Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 203E9EE61E8AA21E00613F78 /* Build configuration list for PBXNativeTarget "1.0KCV函数调用的基本实现Tests" */;
+			buildPhases = (
+				203E9ECD1E8AA21E00613F78 /* Sources */,
+				203E9ECE1E8AA21E00613F78 /* Frameworks */,
+				203E9ECF1E8AA21E00613F78 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				203E9ED31E8AA21E00613F78 /* PBXTargetDependency */,
+			);
+			name = "1.0KCV函数调用的基本实现Tests";
+			productName = "1.0KCV函数调用的基本实现Tests";
+			productReference = 203E9ED11E8AA21E00613F78 /* 1.0KCV函数调用的基本实现Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		203E9EDB1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 203E9EE91E8AA21E00613F78 /* Build configuration list for PBXNativeTarget "1.0KCV函数调用的基本实现UITests" */;
+			buildPhases = (
+				203E9ED81E8AA21E00613F78 /* Sources */,
+				203E9ED91E8AA21E00613F78 /* Frameworks */,
+				203E9EDA1E8AA21E00613F78 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				203E9EDE1E8AA21E00613F78 /* PBXTargetDependency */,
+			);
+			name = "1.0KCV函数调用的基本实现UITests";
+			productName = "1.0KCV函数调用的基本实现UITests";
+			productReference = 203E9EDC1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -208,6 +356,23 @@
 						ProvisioningStyle = Automatic;
 						TestTargetID = 203E9E881E8AA1F600613F78;
 					};
+					203E9EBD1E8AA21E00613F78 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = PKZRZ28357;
+						ProvisioningStyle = Automatic;
+					};
+					203E9ED01E8AA21E00613F78 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = PKZRZ28357;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 203E9EBD1E8AA21E00613F78;
+					};
+					203E9EDB1E8AA21E00613F78 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = PKZRZ28357;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 203E9EBD1E8AA21E00613F78;
+					};
 				};
 			};
 			buildConfigurationList = 203E9E841E8AA1F600613F78 /* Build configuration list for PBXProject "Swift学习Demo集合" */;
@@ -226,6 +391,9 @@
 				203E9E881E8AA1F600613F78 /* Swift学习Demo集合 */,
 				203E9E9C1E8AA1F700613F78 /* Swift学习Demo集合Tests */,
 				203E9EA71E8AA1F700613F78 /* Swift学习Demo集合UITests */,
+				203E9EBD1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现 */,
+				203E9ED01E8AA21E00613F78 /* 1.0KCV函数调用的基本实现Tests */,
+				203E9EDB1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -249,6 +417,30 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		203E9EA61E8AA1F700613F78 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		203E9EBC1E8AA21E00613F78 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				203E9ECB1E8AA21E00613F78 /* LaunchScreen.storyboard in Resources */,
+				203E9EC81E8AA21E00613F78 /* Assets.xcassets in Resources */,
+				203E9EC61E8AA21E00613F78 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		203E9ECF1E8AA21E00613F78 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		203E9EDA1E8AA21E00613F78 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -283,6 +475,32 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		203E9EBA1E8AA21E00613F78 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				203E9EED1E8AA24100613F78 /* Person.swift in Sources */,
+				203E9EC31E8AA21E00613F78 /* ViewController.swift in Sources */,
+				203E9EC11E8AA21E00613F78 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		203E9ECD1E8AA21E00613F78 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				203E9ED61E8AA21E00613F78 /* __0KCV_________Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		203E9ED81E8AA21E00613F78 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				203E9EE11E8AA21E00613F78 /* __0KCV_________UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -295,6 +513,16 @@
 			isa = PBXTargetDependency;
 			target = 203E9E881E8AA1F600613F78 /* Swift学习Demo集合 */;
 			targetProxy = 203E9EA91E8AA1F700613F78 /* PBXContainerItemProxy */;
+		};
+		203E9ED31E8AA21E00613F78 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 203E9EBD1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现 */;
+			targetProxy = 203E9ED21E8AA21E00613F78 /* PBXContainerItemProxy */;
+		};
+		203E9EDE1E8AA21E00613F78 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 203E9EBD1E8AA21E00613F78 /* 1.0KCV函数调用的基本实现 */;
+			targetProxy = 203E9EDD1E8AA21E00613F78 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -311,6 +539,22 @@
 			isa = PBXVariantGroup;
 			children = (
 				203E9E961E8AA1F600613F78 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		203E9EC41E8AA21E00613F78 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				203E9EC51E8AA21E00613F78 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		203E9EC91E8AA21E00613F78 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				203E9ECA1E8AA21E00613F78 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -493,6 +737,90 @@
 			};
 			name = Release;
 		};
+		203E9EE41E8AA21E00613F78 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PKZRZ28357;
+				INFOPLIST_FILE = "1.0KCV函数调用的基本实现/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Moming.--0KCV---------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		203E9EE51E8AA21E00613F78 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PKZRZ28357;
+				INFOPLIST_FILE = "1.0KCV函数调用的基本实现/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Moming.--0KCV---------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		203E9EE71E8AA21E00613F78 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = PKZRZ28357;
+				INFOPLIST_FILE = "1.0KCV函数调用的基本实现Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Moming.--0KCV---------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/1.0KCV函数调用的基本实现.app/1.0KCV函数调用的基本实现";
+			};
+			name = Debug;
+		};
+		203E9EE81E8AA21E00613F78 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = PKZRZ28357;
+				INFOPLIST_FILE = "1.0KCV函数调用的基本实现Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Moming.--0KCV---------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/1.0KCV函数调用的基本实现.app/1.0KCV函数调用的基本实现";
+			};
+			name = Release;
+		};
+		203E9EEA1E8AA21E00613F78 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = PKZRZ28357;
+				INFOPLIST_FILE = "1.0KCV函数调用的基本实现UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Moming.--0KCV---------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "1.0KCV函数调用的基本实现";
+			};
+			name = Debug;
+		};
+		203E9EEB1E8AA21E00613F78 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = PKZRZ28357;
+				INFOPLIST_FILE = "1.0KCV函数调用的基本实现UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Moming.--0KCV---------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "1.0KCV函数调用的基本实现";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -526,6 +854,30 @@
 			buildConfigurations = (
 				203E9EB81E8AA1F700613F78 /* Debug */,
 				203E9EB91E8AA1F700613F78 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		203E9EE31E8AA21E00613F78 /* Build configuration list for PBXNativeTarget "1.0KCV函数调用的基本实现" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				203E9EE41E8AA21E00613F78 /* Debug */,
+				203E9EE51E8AA21E00613F78 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		203E9EE61E8AA21E00613F78 /* Build configuration list for PBXNativeTarget "1.0KCV函数调用的基本实现Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				203E9EE71E8AA21E00613F78 /* Debug */,
+				203E9EE81E8AA21E00613F78 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		203E9EE91E8AA21E00613F78 /* Build configuration list for PBXNativeTarget "1.0KCV函数调用的基本实现UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				203E9EEA1E8AA21E00613F78 /* Debug */,
+				203E9EEB1E8AA21E00613F78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
